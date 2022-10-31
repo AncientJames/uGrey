@@ -1,0 +1,6 @@
+.vscode/
+build/
+localnotes.txt
+*.out
+Backup/
+junk.c
